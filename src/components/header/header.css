@@ -1,0 +1,20 @@
+.headerInfo {
+  background-color: rgb(60, 143, 221);
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 10px;
+}
+
+.headerInfo p {
+  background-color: rgb(60, 143, 221);
+  margin-left: 10px;
+  margin-right: 50px;
+}
+
+.headerInfo span {
+  align-content: center;
+  background-color: rgb(60, 143, 221);
+  margin-left: 35px;
+  margin-top: 5px;
+}

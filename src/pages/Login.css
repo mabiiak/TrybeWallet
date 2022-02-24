@@ -1,0 +1,27 @@
+.pageLogin {
+  align-items: center;
+  background-color: rgb(60, 143, 221);
+  display: flex;
+  flex-direction: column;
+  padding: 15% 20%;
+}
+
+.tittleLogin {
+  align-items: center;
+  background-color: rgb(60, 143, 221);
+  display: flex;
+  justify-content: center;
+}
+
+.tittleLogin h1 {
+  background-color: rgb(60, 143, 221);
+  font-size: 40px;
+  margin-right: 5px;
+}
+
+.pageLogin > p {
+  background-color: rgb(60, 143, 221);
+  font-size: 30px;
+  margin-right: 5px;
+  margin-top: 0;
+}
