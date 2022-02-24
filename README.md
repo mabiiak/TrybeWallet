@@ -7,8 +7,10 @@ Utilizamos Redux para trabalhar com a passagem de states, e utilizado os dados d
 ## Futuras melhorias
 ⬜ Particurlamente não gostei de como ficou a tela de Login, e pretendo mudar sua aparencia.
 
-⬜ Implementar a exclusão da despesa e atualização do total de gatsos.
+⬜ Implementar a exclusão da despesa e atualização do total de gastos.
 
 ⬜ Implementar a edição de uma despesa.
+
+⬜ Implementar a criação e validação do usuario.
 
 > _iniciado em 10/01/2022_
