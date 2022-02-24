@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/trybewallet/static/css/main.93a62104.chunk.css",
-    "main.js": "/trybewallet/static/js/main.c2c943fe.chunk.js",
-    "main.js.map": "/trybewallet/static/js/main.c2c943fe.chunk.js.map",
+    "main.css": "/trybewallet/static/css/main.9527c111.chunk.css",
+    "main.js": "/trybewallet/static/js/main.b30b04fd.chunk.js",
+    "main.js.map": "/trybewallet/static/js/main.b30b04fd.chunk.js.map",
     "runtime-main.js": "/trybewallet/static/js/runtime-main.ec83dc77.js",
     "runtime-main.js.map": "/trybewallet/static/js/runtime-main.ec83dc77.js.map",
     "static/js/2.ab5d5c8d.chunk.js": "/trybewallet/static/js/2.ab5d5c8d.chunk.js",
     "static/js/2.ab5d5c8d.chunk.js.map": "/trybewallet/static/js/2.ab5d5c8d.chunk.js.map",
     "index.html": "/trybewallet/index.html",
-    "precache-manifest.4f4898d45eb16f7625d95c92e02992c4.js": "/trybewallet/precache-manifest.4f4898d45eb16f7625d95c92e02992c4.js",
+    "precache-manifest.c393a1035b4a353585ea1ab46cc8d86a.js": "/trybewallet/precache-manifest.c393a1035b4a353585ea1ab46cc8d86a.js",
     "service-worker.js": "/trybewallet/service-worker.js",
-    "static/css/main.93a62104.chunk.css.map": "/trybewallet/static/css/main.93a62104.chunk.css.map",
+    "static/css/main.9527c111.chunk.css.map": "/trybewallet/static/css/main.9527c111.chunk.css.map",
     "static/js/2.ab5d5c8d.chunk.js.LICENSE.txt": "/trybewallet/static/js/2.ab5d5c8d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ec83dc77.js",
     "static/js/2.ab5d5c8d.chunk.js",
-    "static/css/main.93a62104.chunk.css",
-    "static/js/main.c2c943fe.chunk.js"
+    "static/css/main.9527c111.chunk.css",
+    "static/js/main.b30b04fd.chunk.js"
   ]
 }
