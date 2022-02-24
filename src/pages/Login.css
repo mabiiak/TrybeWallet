@@ -3,7 +3,7 @@
   background-color: rgb(60, 143, 221);
   display: flex;
   flex-direction: column;
-  padding: 15% 20%;
+  padding: 16.35%;
 }
 
 .tittleLogin {
@@ -24,4 +24,16 @@
   font-size: 30px;
   margin-right: 5px;
   margin-top: 0;
+}
+
+.pageLogin > button {
+  background-color: black;
+  color: white;
+  height: 40px;
+  width: 214px;
+}
+
+Input, button {  
+  height: 30px;
+  text-align: center;
 }

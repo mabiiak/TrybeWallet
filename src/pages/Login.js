@@ -63,6 +63,7 @@ class Login extends React.Component {
         </div>
         <p> Login </p>
         <Input // email
+          nome="mail"
           dataTest="email-input"
           type="email"
           name="email"
@@ -72,6 +73,7 @@ class Login extends React.Component {
         />
 
         <Input // senha
+          nome="senha"
           dataTest="password-input"
           type="password"
           id="senha"
@@ -81,7 +83,7 @@ class Login extends React.Component {
         />
 
         <button type="submit" disabled={ disableButton }>
-          Entrar
+          Entrar (usuario ficticio)
         </button>
       </form>
     );
