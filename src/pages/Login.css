@@ -10,7 +10,7 @@
   margin-left:auto;
   margin-right: auto;
   margin-top: 150px;
-  width: 35%;
+  width: 55%;  
 }
 
 .pageLogin div {
@@ -38,7 +38,6 @@ Input, button {
   margin-bottom: 10px;
   text-align: center;
   width: 214px;
-
 }
 
 .pageLogin button {
@@ -47,7 +46,6 @@ Input, button {
   width: 218px;
   border: none;
   box-shadow: 0 10px grey;
-
 }
 
 .pageLogin button:disabled {
@@ -58,3 +56,49 @@ Input, button {
   box-shadow: 0 4px rgb(94, 93, 93);
   transform: translateY(6px);
 }
+
+@media only screen and (max-width: 1200px) {
+  .pageLogin {
+    width: 65%;  
+  }
+}
+
+@media only screen and (max-width: 800px) {
+
+  .pageLogin {
+    background: linear-gradient( 180deg,
+    #4287f5 32%, #f2f2f2 0%);
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    height: 600px;
+    width: 70%;  
+    margin-top: 25%;
+  }
+
+  .pageLogin span {
+    font-size: 120px;
+    margin-top: 0px;
+  }
+
+  .pageLogin div {
+    display: flex;
+    flex-direction: column;
+    margin-left:auto;
+    margin-right: auto;
+  }
+
+  div > Input, button {
+    margin-left:auto;
+    margin-right: auto;
+    width: 85%;  
+  }
+
+  .pageLogin button {
+    margin-left:auto;
+    margin-right: auto;
+    width: 100%;
+  }
+}
+
+
