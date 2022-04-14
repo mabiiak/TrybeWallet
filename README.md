@@ -7,6 +7,8 @@ Utilizamos Redux para trabalhar com a passagem de states, e utilizado os dados d
 ## Futuras melhorias
 ✔️ Estilização da tela de Login.
 
+⬜ Responsividade no login.
+
 ⬜ Alterações na estilização da rota /carteira
 
 ⬜ Correção de problemas com as rotas ao atualizar a página.
