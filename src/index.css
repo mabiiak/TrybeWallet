@@ -1,18 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;1,100;1,200&family=Oswald:wght@200;300;400&display=swap');
+
 * {
-  background-color: white;
-  font-size: medium;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: medium
 }
 
-body {
-  margin: 0;
-}
+body { margin: 0 }
 
 * > button , input , select , option {
   background-color: rgb(221, 222, 223);
 }
 
 span {
-  background-color: rgb(60, 143, 221);
   font-size: 30px;
   margin-left: 5px;
 }

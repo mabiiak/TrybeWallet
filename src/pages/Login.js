@@ -55,36 +55,36 @@ class Login extends React.Component {
 
     return (
       <form className="pageLogin" onSubmit={ this.onClick }>
-        <div className="tittleLogin">
-          <h1>
+        <span className='emote' role="img" aria-labelledby="coin">💸</span>
+        <div >
+          <h1 className="tittleLogin">
             TrybeWallet
-            <span role="img" aria-labelledby="coin">💸</span>
           </h1>
+          <Input // email
+            nome="mail"
+            dataTest="email-input"
+            type="email"
+            name="email"
+            id="email"
+            placeholder="Email"
+            onChange={ this.handleChange }
+          />
+
+          <Input // senha
+            nome="senha"
+            dataTest="password-input"
+            type="password"
+            id="senha"
+            name="senha"
+            placeholder="Senha"
+            onChange={ this.handleChange }
+          />
+
+          <button type="submit" disabled={ disableButton }>
+            Entrar
+          </button>
         </div>
-        <p> Login </p>
-        <Input // email
-          nome="mail"
-          dataTest="email-input"
-          type="email"
-          name="email"
-          id="email"
-          placeholder="Email"
-          onChange={ this.handleChange }
-        />
-
-        <Input // senha
-          nome="senha"
-          dataTest="password-input"
-          type="password"
-          id="senha"
-          name="senha"
-          placeholder="Senha"
-          onChange={ this.handleChange }
-        />
-
-        <button type="submit" disabled={ disableButton }>
-          Entrar (usuario ficticio)
-        </button>
+        
       </form>
     );
   }
