@@ -7,9 +7,11 @@ Utilizamos Redux para trabalhar com a passagem de states, e utilizado os dados d
 ## Futuras melhorias
 ✔️ Estilização da tela de Login.
 
-⬜ Responsividade no login.
+✔️ Responsividade no login.
 
 ⬜ Alterações na estilização da rota /carteira
+
+⬜ Responsividade na rota /carteira
 
 ✔️  Correção de problemas com as rotas ao atualizar a página.
 
@@ -17,6 +19,6 @@ Utilizamos Redux para trabalhar com a passagem de states, e utilizado os dados d
 
 ⬜ Implementar a edição de uma despesa.
 
-⬜ Implementar a criação e validação do usuario.
+⬜ Implementar a criação e validação do usuario com banco de dados.
 
 > _iniciado em 10/01/2022_
