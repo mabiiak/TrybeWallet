@@ -11,7 +11,7 @@ Utilizamos Redux para trabalhar com a passagem de states, e utilizado os dados d
 
 ⬜ Alterações na estilização da rota /carteira
 
-⬜ Correção de problemas com as rotas ao atualizar a página.
+✔️  Correção de problemas com as rotas ao atualizar a página.
 
 ⬜ Implementar a exclusão da despesa e atualização do total de gastos.
 
